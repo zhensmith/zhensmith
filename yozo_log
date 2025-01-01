@@ -1,0 +1,48 @@
+埋点:埋点087|001|21|004
+ Time:2024.06.09 20:27:51
+ 
+ 
+文件类型：4,version_code:113065, start_from:1， 开档时间：1407埋点:00133|004
+ Time:2024.06.09 20:27:51
+ 
+ 
+开始开档, 文档类型：4, 文件大小：1151kb,version_code:113065, start_from:1埋点:埋点:090|000|02|004
+ Exception:2024.06.09 20:28:15
+ 
+ version ;2477
+java.lang.Exception: 文档打开异常， 异常类型：1，包名：com.yozo.vivo.office,version_code:113065,错误类型：1,path：/storage/emulated/0
+	at c.g.d.J(Unknown Source:128)
+	at com.yozo.pdf.PDFActivityNormal$18.run(Unknown Source:29)
+	at android.os.Handler.handleCallback(Handler.java:1013)
+	at android.os.Handler.dispatchMessage(Handler.java:101)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:328)
+	at android.app.ActivityThread.main(ActivityThread.java:9242)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:586)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+埋点:00133|004
+ Time:2024.06.09 20:28:16
+ 
+ 
+开始开档, 文档类型：4, 文件大小：0kb,version_code:113065, start_from:1埋点:埋点:00138|004
+ Time:2024.06.09 20:28:18
+ 
+ 
+开档过程中退到后台埋点:埋点087|001|21|004
+ Time:2024.06.09 20:28:49
+ 
+ 
+文件类型：4,version_code:113065, start_from:1， 开档时间：971埋点:00133|004
+ Time:2024.06.09 20:28:49
+ 
+ 
+开始开档, 文档类型：4, 文件大小：111kb,version_code:113065, start_from:1埋点:埋点087|001|21|004
+ Time:2024.12.29 13:09:57
+ 
+ 
+文件类型：4,version_code:113065, start_from:1， 开档时间：1305埋点:00133|004
+ Time:2024.12.29 13:09:57
+ 
+ 
+开始开档, 文档类型：4, 文件大小：1332kb,version_code:113065, start_from:1
