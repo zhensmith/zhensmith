@@ -1,0 +1,66 @@
+
+**********************
+2024-12-31 00:48:04(write log time)
+
+qua = TeraBox
+versionName = 3.38.5
+versionCode = 468
+imei = empty_imei
+uid = uid
+network = unknown
+model = V2310
+api-level = 34 14
+cpu-core = 8
+process = com.dubox.drive
+freeMemory = 748924
+totalMemory = 3828476
+time = 2259
+thread-time = 97
+time-start = 12-31 00:48:01.582
+time-end = 12-31 00:48:03.841
+cpu-busy = false
+cpu-rate = 
+stack = 12-31 00:48:03.342
+
+android.os.BinderProxy.transactNative(Native Method)
+android.os.BinderProxy.transact(BinderProxy.java:628)
+android.app.IActivityTaskManager$Stub$Proxy.startActivity(IActivityTaskManager.java:2999)
+android.app.Instrumentation.execStartActivity(Instrumentation.java:1873)
+android.app.Activity.startActivityForResult(Activity.java:5849)
+androidx.activity.ComponentActivity.startActivityForResult(SearchBox:2)
+android.app.Activity.startActivityForResult(Activity.java:5807)
+androidx.activity.ComponentActivity.startActivityForResult(SearchBox:1)
+android.app.Activity.startActivity(Activity.java:6305)
+android.app.Activity.startActivity(Activity.java:6272)
+com.dubox.drive.util._._(SearchBox:8)
+com.dubox.drive.login.___.k(SearchBox:2)
+com.dubox.drive.login.___.i(SearchBox:3)
+com.dubox.drive.component.ApisKt.t(SearchBox:3)
+rubik.generate.aggregate.bd_netdisk_com_dubox_drive.DriveAggregate.logoutAccount(SearchBox:1)
+rubik.generate.context.bd_netdisk_com_dubox_drive.DriveContext$Companion$logoutAccount$1.invoke(SearchBox:2)
+rubik.generate.context.bd_netdisk_com_dubox_drive.DriveContext$Companion$logoutAccount$1.invoke(SearchBox:1)
+n30.__._(SearchBox:1)
+rubik.generate.context.bd_netdisk_com_dubox_drive.DriveContext$Companion.logoutAccount(SearchBox:1)
+com.dubox.drive.login.ui.viewmodel.LoginViewModel.l(SearchBox:3)
+com.dubox.drive.login.ui.fragment.AccountFragment$thirdLogin$1$1.__(SearchBox:8)
+com.mars.united.international.passport.domain.Login$thirdLogin$2$1.invokeSuspend(SearchBox:4)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SearchBox:4)
+kotlinx.coroutines.g.run(SearchBox:22)
+android.os.Handler.handleCallback(Handler.java:1013)
+android.os.Handler.dispatchMessage(Handler.java:101)
+android.os.Looper.loopOnce(Looper.java:226)
+android.os.Looper.loop(Looper.java:328)
+com.dubox.drive.crash.b.___(SearchBox:1)
+com.dubox.drive.crash.b._(Unknown Source:0)
+com.dubox.drive.crash.a.run(Unknown Source:0)
+android.os.Handler.handleCallback(Handler.java:1013)
+android.os.Handler.dispatchMessage(Handler.java:101)
+android.os.Looper.loopOnce(Looper.java:226)
+android.os.Looper.loop(Looper.java:328)
+android.app.ActivityThread.main(ActivityThread.java:9242)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:594)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+
+
+
